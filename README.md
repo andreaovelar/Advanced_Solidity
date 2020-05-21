@@ -73,6 +73,14 @@ Please find below screenshot for initial balances from account 1 to 4
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture13.PNG "CLOSE")
 
+Please find below screenshot for initial balances from account 1 to 4 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture14.PNG "CLOSE")
+
+Please find below screenshot for initial balances from account 1 to 4 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture15.PNG "CLOSE")
+
 
 ## Useful links and info 
 * https://kovan.etherscan.io/
