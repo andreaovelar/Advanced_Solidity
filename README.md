@@ -15,47 +15,47 @@ You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a
 ## Steps  
 * Connect Metamask on Kovan network with at least two prefunded wallet accounts 
 * Compile Crowdsale and Puppercoin file
-* Deploy PupperCoinSaleDeployer 
-* Deploy PupperCoinSale
-* Deploy PupperCoin
+* Deploy PupperCoinSaleDeployer first 
+* Deploy PupperCoinSale second 
+* Deploy PupperCoin last 
 * Start raising funds by sending PUP coins 
-* Check transactions on Etherscan to confirm 
+* Check transactions on Etherscan to confirm crowdsale 
 
 
-## File AssociateProfitSplitter
+## Deployment 
 
-Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+Please find below screenshot in which we show the deployment in remix for PupperCoinSaleDeployer file using kovan network. please note input values in the box (Puppercoin, PUP, wallet, goal to raise)
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture3.PNG "CLOSE")
 
-Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+Please find below screenshot in which we show the deployment cost of the contract 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture4.PNG "CLOSE")
 
-Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+Please find below screenshot after contract deployment in which we see the blockchain address of the contract (Token sale address)
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture5.PNG "CLOSE")
 
-Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+We use that address to deploy the second contract PupperCoinSale and click on At address 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture6.PNG "CLOSE")
 
-Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+Now we need the token address from the first contract deploy in order to deploy the PupperCoin contract by clicking on at address 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture7.PNG "CLOSE")
 
 
-## File TieredProfitSplitter
+## Fundraising
 
-Please find below screenshot for initial balances from account 1 to 4 
-
-![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture8.PNG "CLOSE")
-
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below screenshot for initial flags for the PupperCoinSale 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture9.PNG "CLOSE")
 
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below screenshot for PupperCoinSale contract in which we enter the second prefunded wallet address in order to raise coins we click on BuyTokens and specify the amount of wei or Ether we want to send  
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture8.PNG "CLOSE")
+
+Please find below screenshot of confirmation using etherscan
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture10.PNG "CLOSE")
 
