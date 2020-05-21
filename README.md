@@ -86,9 +86,10 @@ Please find below screenshot after the time of the crowdsale has finished
 
 ## Useful links and info 
 * https://kovan.etherscan.io/
+* https://faucet.kovan.network/
 * https://remix.ethereum.org/
 * address used to deploy contracts 0x30B7C972578985dD504Cd6E1846d55faF25CF37E'
 
 ## Conclusions 
-* We were able to use Ganache, Metamask, and remix for smart contract development 
+* We were able to use  Metamask, and remix for smart contract development 
 * We use our local network as well as Kovan testnet 
