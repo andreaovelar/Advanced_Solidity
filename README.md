@@ -2,24 +2,25 @@
 
 ###  Advanced_Solidity_HW
 ####  Background
-Your new startup has created its own Ethereum-compatible blockchain to help connect financial institutions, and the team wants to build smart contracts to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
+Your company has decided to crowdsale their PupperCoin token in order to help fund the network development.
+This network will be used to track the dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets. You have already worked with the necessary legal bodies and have the green light on creating a crowdsale open to the public. However, you are required to enable refunds if the crowdsale is successful and the goal is met, and you are only allowed to raise a maximum of 300 Ether. The crowdsale will run for 24 weeks.
 
-Fortunately, you've been learning how to program smart contracts with Solidity! What you will be doing this assignment is creating a few 
-### ProfitSplitter contracts. These contracts will do several things:
-* Pay your Associate-level employees quickly and easily.
-* Distribute profits to different tiers of employees.
-* Distribute company shares for employees in a "deferred equity incentive plan" automatically.
+You will need to create an ERC20 token that will be minted through a Crowdsale contract that you can leverage from the OpenZeppelin Solidity library.
 
-## Files  
-* AssociateProfitSplitter.sol -- 
-* TieredProfitSplitter.sol -- 
-* DeferredEquityPlan.sol -- 
+This crowdsale contract will manage the entire process, allowing users to send ETH and get back PUP (PupperCoin).
+This contract will mint the tokens automatically and distribute them to buyers in one transaction.
+It will need to inherit Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrowdsale, and MintedCrowdsale.
+You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
 
 ## Steps  
-* Connect Ganache in local network, 
-* Open metamask in local network and 
-* Deploy contracts using remix.
-* Please note that for last file deferred equity plan we are using the kovan network to test and view transactions on etherscan
+* Connect Metamask on Kovan network with at least two prefunded wallet accounts 
+* Compile Crowdsale and Puppercoin file
+* Deploy PupperCoinSaleDeployer 
+* Deploy PupperCoinSale
+* Deploy PupperCoin
+* Start raising funds by sending PUP coins 
+* Check transactions on Etherscan to confirm 
+
 
 ## File AssociateProfitSplitter
 
