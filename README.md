@@ -44,24 +44,22 @@ Now we need the token address from the first contract deploy in order to deploy 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture7.PNG "CLOSE")
 
-
-## Fundraising
-
-Please find below screenshot for initial flags for the PupperCoinSale 
-
-![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture9.PNG "CLOSE")
-
-Please find below screenshot for PupperCoinSale contract in which we enter the second prefunded wallet address in order to raise coins we click on BuyTokens and specify the amount of wei or Ether we want to send  
-
-![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture8.PNG "CLOSE")
-
-Please find below screenshot of confirmation using etherscan
+Please find below screenshot of confirmation of the contract creation using etherscan
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture10.PNG "CLOSE")
 
-## File TieredProfitSplitter
+## Fundraising
 
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below screenshot for initial flags for the PupperCoinSale  
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture8.PNG "CLOSE")
+
+Please find below screenshot for initial flags for the PupperCoinSale continuation
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture9.PNG "CLOSE")
+
+
+Please find below screenshot for PupperCoinSale contract in which we enter the second prefunded wallet address in order to raise coins we click on BuyTokens and specify the amount of wei or Ether we want to send, we also confirm on metamask 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture11.PNG "CLOSE")
 
