@@ -26,22 +26,52 @@ You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a
 
 Please find below screenshot in which we show the deployment in remix for Associate file using local network 
 
-![table](https://github.com/andreaovelar/Solidity/blob/master/images/Capture7.PNG "CLOSE")
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture3.PNG "CLOSE")
+
+Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture4.PNG "CLOSE")
+
+Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture5.PNG "CLOSE")
+
+Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture6.PNG "CLOSE")
+
+Please find below screenshot in which we show the deployment in remix for Associate file using local network 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture7.PNG "CLOSE")
 
 
 ## File TieredProfitSplitter
 
 Please find below screenshot for initial balances from account 1 to 4 
 
-![table](https://github.com/andreaovelar/Solidity/blob/master/images/Capture12.PNG "CLOSE")
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture8.PNG "CLOSE")
 
+Please find below screenshot for initial balances from account 1 to 4 
 
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture9.PNG "CLOSE")
 
-### Deferred Equity Plan using Kovan Testnet 
+Please find below screenshot for initial balances from account 1 to 4 
 
-Please find below screenshot using Kovan testnet deployment environment 
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture10.PNG "CLOSE")
 
-![table](https://github.com/andreaovelar/Solidity/blob/master/images/Capture19.PNG "CLOSE")
+## File TieredProfitSplitter
+
+Please find below screenshot for initial balances from account 1 to 4 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture11.PNG "CLOSE")
+
+Please find below screenshot for initial balances from account 1 to 4 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture12.PNG "CLOSE")
+
+Please find below screenshot for initial balances from account 1 to 4 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture13.PNG "CLOSE")
 
 
 ## Useful links and info 
