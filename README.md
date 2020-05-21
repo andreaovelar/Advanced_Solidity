@@ -63,21 +63,25 @@ Please find below screenshot for PupperCoinSale contract in which we enter the s
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture11.PNG "CLOSE")
 
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below screenshot of confirmation of the transaction using etherscan
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture12.PNG "CLOSE")
 
-Please find below screenshot for initial balances from account 1 to 4 
+We again try to send a different amount of wei to reach to our original goal please note the gas cost is different than previous transaction
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture13.PNG "CLOSE")
 
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below screenshot of confirmation of the transaction using etherscan 
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture14.PNG "CLOSE")
 
-Please find below screenshot for initial balances from account 1 to 4 
+Please find below flag goal reached is set to True after we sent the total weis. Given that the time we set to allow for the fundraising has not completed the hasClose flag is showing False.
 
 ![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture15.PNG "CLOSE")
+
+Please find below screenshot after the time of the crowdsale has finished 
+
+![table](https://github.com/andreaovelar/Advanced_Solidity/blob/master/images/Capture16.PNG "CLOSE")
 
 
 ## Useful links and info 
